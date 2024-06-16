@@ -6,10 +6,10 @@ import requests
 import websocket
 from keep_alive import keep_alive
 
-status = "online" #online/dnd/idle
+status = "idle" #online/dnd/idle
 
 GUILD_ID = 1050807628244193372
-CHANNEL_ID = 1178133463241596978
+CHANNEL_ID = 1178133482438918156
 SELF_MUTE = True
 SELF_DEAF = False
 
